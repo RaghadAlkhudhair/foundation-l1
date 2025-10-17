@@ -1,4 +1,4 @@
-# Introduction to Programming
+# Introduction to Programming Part 1
 ## What is Programming and Why It Matters
 
 ### Learning Objectives

@@ -232,6 +232,8 @@ prices_with_error = [1.50, 0.75, 2.00]  # Extra price
 
 total_with_error = calculate_total(items_with_error, prices_with_error)
 ```
+### Programming Spirit
+When you find yourself stuck and debugging for an extended period, remember to take breaks. Step away from your computer, go for a walk, stay hydrated, and return to the problem with fresh eyes. This approach often leads to new insights and solutions.           
 
 ### Example 2: Grade Calculator Bug
 ```python

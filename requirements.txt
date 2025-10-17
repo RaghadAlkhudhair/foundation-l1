@@ -1,0 +1,19 @@
+# Core development tools
+black>=22.0.0
+pylint>=2.15.0
+flake8>=5.0.0
+isort>=5.10.0
+mypy>=0.991
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Documentation
+mkdocs>=1.4.0
+mkdocs-material>=8.5.0
+
+# Optional: Jupyter for interactive development
+jupyter>=1.0.0
+ipython>=8.0.0
+
