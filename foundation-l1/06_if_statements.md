@@ -65,18 +65,16 @@ else:
 
 ### Example 1: Age-Based Access Control
 ```python
-print("🎫 Age-Based Access Control 🎫")
+print("🏦 Age-Based Bank Account Eligibility Checker 🏦")
 
 age = int(input("How old are you? "))
 
 if age >= 18:
-    print("✅ You can enter the club!")
-    print("Welcome to the adult section!")
-elif age >= 13:
-    print("✅ You can enter the teen section!")
-    print("Have fun in the arcade!")
+    print("✅ You are allowed to open your own independent bank account!")
+elif age >= 15 and age < 18:
+    print("✅ You can have a bank account, but you need guardian consent.")
 else:
-    print("❌ Sorry, you're too young to enter.")
+    print("❌ Sorry, you're too young to have a bank account.")
     print("Come back when you're older!")
 ```
 
@@ -269,7 +267,7 @@ print("🎯 Nested Decision Example 🎯")
 age = int(input("How old are you? "))
 has_license = input("Do you have a driver's license? (yes/no): ").lower() == "yes"
 
-if age >= 16:
+if age >= 18:
     print("You're old enough to drive!")
     
     if has_license:
@@ -288,7 +286,7 @@ if age >= 16:
         print("Go get your learner's permit!")
 else:
     print("❌ You're too young to drive!")
-    print("Wait until you're 16!")
+    print("Wait until you're 18!")
 ```
 
 ---
@@ -621,4 +619,5 @@ You've learned how to make decisions in your programs! Now you can:
 In the next lesson, you'll learn how to make your programs repeat actions until conditions are met!
 
 **Keep making smart decisions!** 🎉
+
 
