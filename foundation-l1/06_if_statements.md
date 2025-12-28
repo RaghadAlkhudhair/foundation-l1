@@ -63,7 +63,7 @@ else:
 
 ## Real-World Examples 🌟
 
-### Example 1: Age-Based Access Control
+### Example 1: Age-Based Eligibility Checker
 ```python
 print("🏦 Age-Based Bank Account Eligibility Checker 🏦")
 
@@ -619,5 +619,6 @@ You've learned how to make decisions in your programs! Now you can:
 In the next lesson, you'll learn how to make your programs repeat actions until conditions are met!
 
 **Keep making smart decisions!** 🎉
+
 
 
