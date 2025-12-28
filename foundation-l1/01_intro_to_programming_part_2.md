@@ -104,6 +104,20 @@ Games provide an engaging, interactive way to learn programming concepts without
 - **Computational thinking** and logical reasoning
 - **Community sharing** and collaborative learning
 
+### 🐒 CodeMonkey
+**Website**: https://www.codemonkey.com  
+**Platform**: Web  
+**Age Range**: 8+  
+**Price**: Free trial available, paid plans for full access  
+
+#### Learning Focus:
+
+- **Text-based coding** using real programming languages (CoffeeScript / Python-style syntax)
+- **Algorithmic thinking** and problem decomposition
+- **Loops, conditionals, variables, and functions**
+- **Debugging skills and logical reasoning**
+- **Gradual transition** from block-style logic to typed code
+
 ## Implementing Games in Your Programming Curriculum
 
 ### Week 1-2: Introduction to Visual Programming
@@ -206,5 +220,6 @@ Games provide an engaging, interactive way to learn programming concepts without
 - **Tynker**: Comprehensive coding platform for kids
 - **Kodable**: Programming curriculum for elementary students
 - **RoboZZle**: Puzzle game for learning programming logic
+
 
 Remember: **The goal is not just to complete games, but to develop computational thinking skills that will serve students throughout their programming journey.** Games provide the perfect bridge between play and serious learning, making programming concepts accessible and enjoyable for learners of all ages.
