@@ -656,7 +656,7 @@ Create a program that generates ASCII art:
 print("🎨 ASCII Art Generator 🎨")
 
 print("Choose a pattern:")
-print("1. Christmas Tree")
+print("1. Tree")
 print("2. Butterfly")
 print("3. Heart")
 print("4. Star")
@@ -665,7 +665,7 @@ choice = int(input("Enter your choice (1-4): "))
 size = int(input("Enter size: "))
 
 if choice == 1:
-    print("\n🎄 Christmas Tree:")
+    print("\n🎄 Tree:")
     # Tree body
     for i in range(size):
         for j in range(size - i - 1):
@@ -925,4 +925,5 @@ You've learned how to use nested loops to create complex patterns! Now you can:
 In the next lesson, you'll learn how to use switch statements for multiple choices and better organization!
 
 **Keep creating amazing patterns!** 🎉
+
 
